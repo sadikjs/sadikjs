@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sadik
 #### Web Developer
-![Web Developer](https://i.postimg.cc/MKD0vBHd/Banner-Linkedin4.png)
+![Web Developer](https://i.postimg.cc/ZnFLsg8N/banner-2.jpg)
 
 Highly skilled React Developer with 4 years of experience in developing and implementing front-end architectures that have resulted in significant increases in page load speed and user engagement. Proficient in collaborating with back-end teams to integrate user-facing elements with server-side logic, implementing automated testing platforms, and optimizing components for maximum performance. Adept at identifying and resolving performance and scalability issues, staying up-to-date with emerging technologies and frameworks, and reducing development time for new projects
 
